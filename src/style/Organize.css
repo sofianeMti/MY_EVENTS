@@ -1,0 +1,81 @@
+.organize{
+    background-color: white;
+    height: 75vh;
+    color: goldenrod;
+}
+.map{
+    border: #282c34 solid 1px;
+    height: 20vh;
+}
+.participants{
+    background-color: #FFC40F;
+    height: 75vh;
+    width: 30vw;
+    display: inline-block;
+
+}
+.chat{
+    background-color: #282c34;
+    height: 75vh;
+    width: 70vw;
+    display: inline-block;
+    position: absolute;
+
+}
+.sortie{
+    text-align: center;
+    color: black;
+}
+.p1{
+    text-align: center;
+    margin-top: 2vh;
+    color: #282c34;
+    position: relative;
+}
+.p2{
+    text-align: center;
+    margin-top: 2vh;
+}
+.mp{
+    text-align: center;
+    padding-top: 6vh;
+}
+
+.bubble-text{background:white; color:#fff; padding:7px 15px; border-radius:3px; width:450px; margin-left: 5vw; margin-top: 2vh}
+
+.s{
+    height: 10vh;
+}
+
+.p0{
+    color: goldenrod;
+    font-size: 30px;
+}
+h4{
+    color: #282c34;
+}
+.message{
+    margin-top: 60vh;
+}
+.mess{
+    //border: white solid 1px;
+    position: absolute;
+    width: 70vw;
+    height: 55vh;
+    overflow-y: scroll;
+}
+.but{
+    float: right;
+    background-color: goldenrod;
+}
+.lo{
+    padding-left: 3px;
+}
+.return{
+    float: right;
+}
+.connecté{
+    color: #282c34;
+    position: relative;
+    bottom: 70px;
+}

@@ -1,0 +1,17 @@
+nav{
+     height: 80px;
+     //border-bottom: #282c34 solid 1px;
+     position: fixed;
+     top:0;
+    //background-attachment: fixed;
+ }
+.profil{
+    padding-left: 88%;
+}
+.profil:hover{
+    color: #282c34;
+}
+.events{
+    font-family: 'Pacifico', cursive;
+    font-size: 25px;
+}

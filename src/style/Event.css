@@ -1,0 +1,41 @@
+.body2{
+    border-left: #282c34 solid 1px;
+    border-right: #282c34 solid 1px;
+    height: 100vh;
+}
+img{
+    width: 35vw;
+    height: 50vh;
+    margin-top: 5vh;
+    //border: #282c34 solid 1px;
+    box-shadow: 1px 1px 12px #555;
+}
+.buttons{
+    border: #282c34 solid 1px;
+    width: 25vw;
+    float: right;
+}
+.buttons:hover{
+    background: goldenrod;
+}
+.paragraphe{
+    padding-top: 4vh;
+    //border: #282c34 solid 1px;
+}
+.lieu1{
+    font-size: 17px;
+}
+.con{
+    //border: #282c34 solid 1px;
+}
+.bloc{
+    //border: #282c34 solid 1px;
+    height: 45vh;
+    width: 30vw;
+    float: right;
+    padding-top: 15vh;
+}
+.date{
+    padding-top: 6vh;
+    float: right;
+}

@@ -1,0 +1,31 @@
+.titreProfil{
+    text-align: center;
+    margin-top: 2vh;
+    color: goldenrod;
+    font-family: 'Pacifico', cursive;
+}
+.bodyProfil{
+    //background: #282c34;
+    height: 85vh;
+    box-shadow: 2px 2px 20px black;
+}
+.left{
+    background-color: goldenrod;
+    height: 78vh;
+    width: 40vh;
+    position: relative;
+    top: 14px;
+    border: #282c34 solid 1px;
+}
+.h2{
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Pacifico', cursive;
+
+}
+.im1{
+    width: 100px;
+    height: 100px;
+    border-radius: 30px;
+    margin-left: 110px;
+}
